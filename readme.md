@@ -12,3 +12,7 @@ SOLUTION: var name = prompt("Write your name here:");
           var restName = name.slice(1,name.length);
           var final = restName.toLowerCase();
           alert("Hi dear, " + capital + final):
+5.Function to convert dog's age into human age:
+SOLUTION: var dogAge=prompt("Write your dog's age down here:");
+          var humanAge=(dogAge-2)*4+21;
+          alert("If your dog was a human then it's age should be " + humanAge);
