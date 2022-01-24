@@ -16,3 +16,8 @@ SOLUTION: var name = prompt("Write your name here:");
 SOLUTION: var dogAge=prompt("Write your dog's age down here:");
           var humanAge=(dogAge-2)*4+21;
           alert("If your dog was a human then it's age should be " + humanAge);
+6.How many kinds of functions are there in Javscript?
+Answer: There are three types of functions which are;
+        1. Vanilla flavor: This function gives no output and takes no input. The simplest form.
+        2. Chocolate flavor: This function only takes input but gives no output.
+        3. Stawberry flavor: This is the hardest form of function which takes input and also gives output.
