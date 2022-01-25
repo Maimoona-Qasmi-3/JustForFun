@@ -21,3 +21,40 @@ Answer: There are three types of functions which are;
         1. Vanilla flavor: This function gives no output and takes no input. The simplest form.
         2. Chocolate flavor: This function only takes input but gives no output.
         3. Stawberry flavor: This is the hardest form of function which takes input and also gives output.
+7.Function to buy some milk by giving and exchange of money:
+SOLUTION: function getMilk(money){
+    console.log("Leave House");
+    console.log("Move Right");
+    console.log("Move Right");
+    console.log("Move Up");
+    console.log("Move Up");
+    console.log("Move Up");
+    console.log("Move Up");
+    console.log("Move Right");
+    console.log("Move Right");
+    var bottles = Math.floor(money / 1.5);
+    console.log("Buy "+bottles+" bottles of Milk");
+    console.log("Move Left");
+    console.log("Move Left");
+    console.log("Move Down");
+    console.log("Move Down");
+    console.log("Move Down");
+    console.log("Move Down");
+    console.log("Move Left");
+    console.log("Move Left");
+    console.log("Enter House");
+    return money % 1.5;
+}
+ getMilk(43.5);
+8.Function to make a love calculator:
+SOLUTION: prompt("Write you and your's name by seprating it with comma(,)")
+          var random = Math.random();
+          var whole = Math.round(random * 100)
+          alert(whole);
+          if(whole>=85){
+          alert("Good Morning. Finally you are awake!");
+          }else if (whole>=55){
+          alert("Money in Friendship is just like oil in water. So be CAREFULL!!");
+          }else{
+          alert("Advice: 'Suicide is a permanent solution to a temporary problem'.");
+          }
