@@ -58,3 +58,12 @@ SOLUTION: prompt("Write you and your's name by seprating it with comma(,)")
           }else{
           alert("Advice: 'Suicide is a permanent solution to a temporary problem'.");
           }
+9.Function to make sure guest are invited or not:
+SOLUTION: var entry = prompt("What is your name:");
+          var guestList= ["Angela", "Jinnie", "Lester", "Selena", "Ketty"];
+          if(guestList.includes(entry)){
+              alert("Welcome Welcome!");
+          }else{
+              alert("Sorry!maybe next time");
+          }
+10.Last but not the least: Making a dice rolling webpage//
