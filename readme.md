@@ -66,4 +66,6 @@ SOLUTION: var entry = prompt("What is your name:");
           }else{
               alert("Sorry!maybe next time");
           }
-10.Last but not the least: Making a dice rolling webpage//
+10.Last but not the least: Making a dice rolling webpage.
+That dice rolling webpage is been uploaded in GitHub.
+11.Making a live music band instruments.//
