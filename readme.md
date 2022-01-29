@@ -69,3 +69,11 @@ SOLUTION: var entry = prompt("What is your name:");
 10.Last but not the least: Making a dice rolling webpage.
 That dice rolling webpage is been uploaded in GitHub.
 11.Making a live music band instruments.//
+12.Difference between array and object:
+ARRAY:    var jungleBook=["Mongli","Bageerra","Ballu","Chanya"];
+OBJECT:   var theJungleBook={
+          description:"Movie",
+          type:"Fictional",
+          based-on:"Jungle:,
+          maimn-character:"Mongli- a boy who lost in jungle when he was little",
+          }
